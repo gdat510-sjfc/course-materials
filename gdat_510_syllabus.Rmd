@@ -2,7 +2,9 @@
 title: "GDAT - 510"
 author: "Chip Galusha"
 date: "3/3/2019"
-output: html_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
