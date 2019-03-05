@@ -7,15 +7,18 @@ GDAT 510: The Data Science Workflow
 
 #### Cell: 585-615-0733
 
-| Class                          | Topics               | Assignments |
-|--------------------------------|----------------------|-------------|
-| March 11                       | - Course Information |
-| - Students & Instructor Intros |
-| - What is Data Science?        |
+This course will develop the skills necessary to build automated/semi-automated/analyst-in-loop data science workflows.
+
+| Class                          | Topics                 | Assignments                               |
+|--------------------------------|------------------------|-------------------------------------------|
+| March 11                       | - Course Information   | Collect problems for discussion next week |
+| - Students & Instructor Intros | Project proposal       |
+| - What is Data Science?        |                        |
 | - Github                       |
 | - R Markdown                   |
 | - R ....                       |
-| March 18                       |                      |
+| March 18                       | Data Science Workflows |
+| - Understanding the problem    |
 
 Useful Resources: - Github ...
 
