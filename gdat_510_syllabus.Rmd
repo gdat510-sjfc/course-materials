@@ -15,10 +15,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Course Syllabus
 
 Instructor: Chip Galusha         
-E-Mail: frankgalushajr@gmail.com       
-Cell: 585-615-0733      
+E-Mail: frankgalushajr@gmail.com             
+Cell: 585-615-0733          
 
-This course will develop the skills necessary to build automated/semi-automated/analyst-in-loop data science workflows. 
+This course will develop the skills necessary to build automated/semi-automated/analyst-in-loop data science workflows.       
 
 #### Grading
 Class Participation: 20%      
@@ -26,9 +26,9 @@ Assignments: 40%
 Final Assigment: 40%      
 
 #### Assigments 
-Each student will create a new repository for each assginments here.
+Each student will create a new repository for each assignments here.     
 
-While this might seem excessive, it will help you stay organized and facilitates the review of  the developmental material necessary for the final submission (remember "show your work"" from the paper and pencil days?). Unless otherwise noted, the final submission of each assigment will be a R markdown file (.rmd).  
+While this might seem excessive, it will help you stay organized and facilitates the review of  the developmental material necessary for the final submission (remember "show your work"" from the paper and pencil days?). Unless otherwise noted, the final submission of each assignment will be a R markdown file (.rmd).    
 
 #### Final Assigment
 Develop a data science workflow in a domain of your choosing. 
@@ -41,34 +41,33 @@ More details and example to follow ...
 
 #### Tentative Class Schedule
 
-|Class   | Topics                         | Assignments  
-|--------| -----------------------------  | -----------
-|March 11| - Course Information           | Collect problems (3) for discussion next week 
-|        | - Students & Instructor Intros | Project proposal in md
-|        | - Data Science in the Wild!    | Explore with github by setting up
-|        | - Github                       | 
-|        | - R Markdown                   |
-|        | - R Style Guide                |
-|March 18| Data Science Workflows         |
-|        | - Assigment 1 Presentations    |
-|        | - The Data Science Workflow    |
-|        | - Business Understand          |
-|        | - Discussion                   |
-|March 25| Data Aquisition & ETL          | - Connent to an API of your choosing. Retireive data, |        | - Connent R to DB              | visualize, and describe
-|        | - APIs                         |
-|        | - Data Sources                 |
-|        | - ETL w/ R                     |
-|April 1 | Modeling                       |
-|        | - Off the grid techniques      |
-|        | - VVUQ                         |
-|        | - In class mini hack-a-thon    |
-|April 8 | TDB                            |
-|April 15| Guest Speakers                 |
-|        | - Placeholer for time. These   |
-|        |  will distributed over the     |
-|        |  semester                      |
-|April 22| Final Presentations            |
-
+|Class   | Topics                         | Assignments|  
+|--------| -----------------------------  | -----------|
+|March 11| - Course Information           | Collect problems (3) for discussion next week |
+|        | - Students & Instructor Intros | Project proposal in md|
+|        | - Data Science in the Wild!    | Explore with github by setting up|
+|        | - Github                       | |
+|        | - R Markdown                   ||
+|        | - R Style Guide                ||
+|March 18| Data Science Workflows         ||
+|        | - Assignment 1 Presentations   ||
+|        | - The Data Science Workflow    ||
+|        | - Business Understand          ||
+|        | - Discussion                   ||
+|March 25| Data Acquisition & ETL         | - Connect to an API of your choosing. Retireive data,| |        | - Connect R to DB              | visualize, and describe|
+|        | - APIs                         ||
+|        | - Data Sources                 ||
+|        | - ETL w/ R                     ||
+|April 1 | Modeling                       ||
+|        | - Off the grid techniques      ||
+|        | - VVUQ                         ||
+|        | - In class mini hack-a-thon    ||
+|April 8 | TDB                            ||
+|April 15| Guest Speakers                 ||
+|        | - Placeholder for time. These   ||
+|        |  will distributed over the     ||
+|        |  semester                      ||
+|April 22| Final Presentations            ||
 
 
 
