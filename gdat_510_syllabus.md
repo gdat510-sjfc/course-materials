@@ -17,9 +17,9 @@ Final Assigment: 40%
 
 #### Assigments
 
-Each student will create a new repository for each assginments here.
+Each student will create a new repository for each assignments here.
 
-While this might seem excessive, it will help you stay organized and facilitates the review of the developmental material necessary for the final submission (remember "show your work"" from the paper and pencil days?). Unless otherwise noted, the final submission of each assigment will be a R markdown file (.rmd).
+While this might seem excessive, it will help you stay organized and facilitates the review of the developmental material necessary for the final submission (remember "show your work"" from the paper and pencil days?). Unless otherwise noted, the final submission of each assignment will be a R markdown file (.rmd).
 
 #### Final Assigment
 
@@ -84,7 +84,7 @@ More details and example to follow ...
 </tr>
 <tr class="even">
 <td></td>
-<td>- Assigment 1 Presentations</td>
+<td>- Assignment 1 Presentations</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -104,8 +104,8 @@ More details and example to follow ...
 </tr>
 <tr class="even">
 <td>March 25</td>
-<td>Data Aquisition &amp; ETL</td>
-<td>- Connent to an API of your choosing. Retireive data,</td>
+<td>Data Acquisition &amp; ETL</td>
+<td>- Connect to an API of your choosing. Retireive data,</td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -154,7 +154,7 @@ More details and example to follow ...
 </tr>
 <tr class="even">
 <td></td>
-<td>- Placeholer for time. These</td>
+<td>- Placeholder for time. These</td>
 <td></td>
 </tr>
 <tr class="odd">
