@@ -14,30 +14,74 @@ knitr::opts_chunk$set(echo = TRUE)
 ## GDAT 510: The Data Science Workflow
 ### Course Syllabus
 
-Instructor: Chip Galusha
-E-Mail: frankgalushajr@gmail.com
-Cell: 585-615-0733
+Instructor: Chip Galusha         
+E-Mail: frankgalushajr@gmail.com       
+Cell: 585-615-0733      
 
-This course will develop the skills necessary to build automated/semi-automated/analyst-in-loop data science workflows.
+This course will develop the skills necessary to build automated/semi-automated/analyst-in-loop data science workflows. 
 
-|Class   | Topics                        | Assignments  
-|--------| ----------------------------- | -----------
-|March 11| - Course Information          | Collect problems for discussion next week
-|        | - Students & Instructor Intros |   Project proposal
-|        | - What is Data Science?        |
-|        | - Github      
-|        | - R Markdown   
-|        | - R ....   
-|March 18| Data Science Workflows
-         | - Understanding the problem
+#### Grading
+Class Participation: 20%      
+Assignments: 40%      
+Final Assigment: 40%      
+
+#### Assigments 
+Each student will create a new repository for each assginments here.
+
+While this might seem excessive, it will help you stay organized and facilitates the review of  the developmental material necessary for the final submission (remember "show your work"" from the paper and pencil days?). Unless otherwise noted, the final submission of each assigment will be a R markdown file (.rmd).  
+
+#### Final Assigment
+Develop a data science workflow in a domain of your choosing. 
+
+- Documentation describing the modeling process and all related R & D             
+- Documentation describing the ETL process        
+- A file the executes the process and produces the final output      
+
+More details and example to follow ...      
+
+#### Tentative Class Schedule
+
+|Class   | Topics                         | Assignments  
+|--------| -----------------------------  | -----------
+|March 11| - Course Information           | Collect problems (3) for discussion next week 
+|        | - Students & Instructor Intros | Project proposal in md
+|        | - Data Science in the Wild!    | Explore with github by setting up
+|        | - Github                       | 
+|        | - R Markdown                   |
+|        | - R Style Guide                |
+|March 18| Data Science Workflows         |
+|        | - Assigment 1 Presentations    |
+|        | - The Data Science Workflow    |
+|        | - Business Understand          |
+|        | - Discussion                   |
+|March 25| Data Aquisition & ETL          | - Connent to an API of your choosing. Retireive data, |        | - Connent R to DB              | visualize, and describe
+|        | - APIs                         |
+|        | - Data Sources                 |
+|        | - ETL w/ R                     |
+|April 1 | Modeling                       |
+|        | - Off the grid techniques      |
+|        | - VVUQ                         |
+|        | - In class mini hack-a-thon    |
+|April 8 | TDB                            |
+|April 15| Guest Speakers                 |
+|        | - Placeholer for time. These   |
+|        |  will distributed over the     |
+|        |  semester                      |
+|April 22| Final Presentations            |
 
 
-Useful Resources:
-- Github
-...
+
+
+**Useful Resources**      
+- *Github*        
+https://happygitwithr.com/rmd-test-drive.html          
+- *Style Guides*        
+https://google.github.io/styleguide/Rguide.xml          
+https://style.tidyverse.org       
+
 
 Attribution:
-The framework for this course was inspired by STAT 545 @ UBC created by Jenny Bryan. 
+The github design for this course was inspired by STAT 545 @ UBC created by Jenny Bryan. 
 http://stat545.com
 
 
