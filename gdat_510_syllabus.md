@@ -21,9 +21,9 @@ Course materials and discussion will take place at <https://github.com/gdat510-s
 
 #### Grading
 
-Participation: 20%
-Assignments: 40%
-Final Assigment: 40%
+Participation: 20% 
+Assignments: 40% 
+Final Assigment: 40% 
 
 #### Participation
 
@@ -31,9 +31,9 @@ Participation will never be evaluated by **correctness.** Instead, the work comp
 
 Communication is extemely important yet not usually prioritized in data sceince.In practice, most end users will lack technical expretise and require explainations distilled to terms representative of the domain. This class will help develop communacation skills:
 
-*Verbal:* Most classes will being with students briefly presenting their assigments due that day.
-*Written:* Assigemnts will require an explination of methologlogies and should be written in a linear fashion.
-*Visual:* Who doesn't love good data viz?
+*Verbal:* Most classes will being with students briefly presenting their assigments due that day. 
+*Written:* Assigemnts will require an explination of methologlogies and should be written in a linear fashion. 
+*Visual:* Who doesn't love good data viz? 
 
 ### Assigments
 
@@ -216,16 +216,16 @@ This should not be work previously completed for another course or project.
 </tbody>
 </table>
 
-**Useful Resources**
-- *Github*
-<https://happygitwithr.com/rmd-test-drive.html>
-- *Style Guides*
-<https://google.github.io/styleguide/Rguide.xml>
-<https://style.tidyverse.org>
-- *Publically Available Data*
-- *US Government*
-<https://www.data.gov>
-- *St. Louis Federal Reserve*
-<https://fred.stlouisfed.org>
+**Useful Resources** 
+- *Github* 
+[https://happygitwithr.com/rmd-test-drive.html\\](https://happygitwithr.com/rmd-test-drive.html\)
+- *Style Guides* 
+[https://google.github.io/styleguide/Rguide.xml\\](https://google.github.io/styleguide/Rguide.xml\)
+[https://style.tidyverse.org\\](https://style.tidyverse.org\)
+- *Publically Available Data* 
+- *US Government* 
+[https://www.data.gov\\](https://www.data.gov\)
+- *St. Louis Federal Reserve* 
+[https://fred.stlouisfed.org\\](https://fred.stlouisfed.org\)
 
 Attribution: The github design and participation requirements for this course was inspired by STAT 545 @ UBC created by Jenny Bryan. <http://stat545.com>
