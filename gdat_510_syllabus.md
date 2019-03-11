@@ -7,29 +7,58 @@ Instructor: Chip Galusha
 E-Mail: <frankgalushajr@gmail.com>
 Cell: 585-615-0733
 
-This course will develop the skills necessary to build automated/semi-automated/analyst-in-loop data science workflows.
+This course will develop the skills and strategies for efficient application of data science by improving each of the core blocks of the data science workflow: 1. Gaining a business understanding for the problem
+2. Data Gathering
+3. ETL
+4. Modeling
+5. Production
+
+#### Course Management
+
+Course materials and discussion will take place at <https://github.com/gdat510-sjfc>. Once everyone has their own github account, they will be added as team members.
 
 #### Grading
 
-Class Participation: 20%
+Participation: 20%
 Assignments: 40%
 Final Assigment: 40%
 
-#### Assigments
+#### Participation
 
-Each student will create a new repository for each assignments here.
+Participation will never be evaluated by **correctness.** Instead, the work completed in class will be submitted to your participation repository.
+
+Communication is extemely important yet not usually prioritized in data sceince.In practice, most end users will lack technical expretise and require explainations distilled to terms representative of the domain. This class will help develop communacation skills:
+
+*Verbal:* Most classes will being with students briefly presenting their assigments due that day.
+*Written:* Assigemnts will require an explination of methologlogies and should be written in a linear fashion.
+*Visual:* Who doesn't love good data viz?
+
+### Assigments
+
+Each student will create a new repository for each assignment with the following naming convention <sjfc user name>\_<assignment number>
 
 While this might seem excessive, it will help you stay organized and facilitates the review of the developmental material necessary for the final submission (remember "show your work"" from the paper and pencil days?). Unless otherwise noted, the final submission of each assignment will be a R markdown file (.rmd).
 
-#### Final Assigment
+### Final Assigment
 
-Develop a data science workflow in a domain of your choosing.
+Develop a data science workflow with data from a domain of your choosing. The final submission will include:
 
 -   Documentation describing the modeling process and all related R & D
 -   Documentation describing the ETL process
--   A file the executes the process and produces the final output
+-   A illustration of the workflow
+-   A file the executes the process and produces the final output in an .rdm
 
-More details and example to follow ...
+The data use in this exercise will be selected at the discresion of the student.
+
+Other Considerations: Domain knowledge is nearly as important as technical knowledge but often more focus is allocated to the methods rather that the application. As a course dedicated to the efficiant application of data science, when selecting data for the project consider:
+
+-   The business domain where you are employed
+-   The business domain where you would like to be employeed
+-   A domain that is of personal interest to you
+
+The ultimate goal of this is to provide you with a "tangible"" asset to showcase your ability. Conisder who and where you might want to showcase this project in the future.
+
+This should not be work previously completed for another course or project.
 
 #### Tentative Class Schedule
 
@@ -59,27 +88,37 @@ More details and example to follow ...
 </tr>
 <tr class="odd">
 <td></td>
-<td>- Data Science in the Wild!</td>
+<td>- Syllabus</td>
 <td>Explore with github by setting up</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>- Github</td>
+<td>- Data Science in the Wild!</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>- R Markdown</td>
+<td>- Github</td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td>- R Style Guide</td>
+<td>- R Markdown</td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td>- R Style Guide</td>
+<td></td>
+</tr>
+<tr class="even">
 <td>March 18</td>
 <td>Data Science Workflows</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>- Guest Speaker: Matt Agone, Paychex</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -181,5 +220,10 @@ More details and example to follow ...
 - *Style Guides*
 <https://google.github.io/styleguide/Rguide.xml>
 <https://style.tidyverse.org>
+- *Publically Available Data*
+- *US Government*
+<https://www.data.gov>
+- *St. Louis Federal Reserve*
+<https://fred.stlouisfed.org>
 
-Attribution: The github design for this course was inspired by STAT 545 @ UBC created by Jenny Bryan. <http://stat545.com>
+Attribution: The github design and participation requirements for this course was inspired by STAT 545 @ UBC created by Jenny Bryan. <http://stat545.com>
