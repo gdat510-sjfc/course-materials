@@ -3,7 +3,7 @@ GDAT 510: The Data Science Workflow
 
 ### Course Syllabus
 
-Instructor: Chip Galusha &lt;&gt;
+Instructor: Chip Galusha
 E-Mail: <frankgalushajr@gmail.com>
 Cell: 585-615-0733
 
@@ -31,7 +31,9 @@ Participation will never be evaluated by **correctness.** Instead, the work comp
 
 ### Assigments
 
-Each student will create a new repository for each assignment with the following naming convention <sjfc user name>\_<assignment number>
+Each student will create a new repository for each assignment with the following naming convention:
+
+<sjfc user name>\_<assignment number>
 
 While this might seem excessive, it will help you stay organized and facilitates the review of the developmental material necessary for the final submission (remember "show your work"" from the paper and pencil days?). Unless otherwise noted, the final submission of each assignment will be a R markdown file (.rmd).
 
@@ -79,12 +81,12 @@ This should not be work previously completed for another course or project.
 </tr>
 <tr class="even">
 <td></td>
-<td>- Student &amp; Instructor Intros</td>
+<td>- Syllabus</td>
 <td>Project proposal</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>- Syllabus</td>
+<td>- Student &amp; Instructor Intros</td>
 <td>Explore with github by setting up</td>
 </tr>
 <tr class="even">
@@ -108,56 +110,61 @@ This should not be work previously completed for another course or project.
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td>- Tidyverse</td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>March 18</td>
 <td>Data Science Workflows</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>- Guest Speaker: Matt Agone, Paychex</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>- Assignment 1 Presentations</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>- The Data Science Workflow</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>- Business Understand</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>- Discussion</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>March 25</td>
 <td>Data Acquisition</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>April 1</td>
 <td>ETL &amp; Databases in R</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>April 8</td>
 <td>Modeling</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>April 15</td>
 <td>Business Process Integreation</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>April 22</td>
 <td>Final Presentations</td>
 <td></td>
@@ -180,10 +187,11 @@ Communication is extemely important yet not usually prioritized in data sceince.
 -   *Style Guides*
     <https://google.github.io/styleguide/Rguide.xml>
     <https://style.tidyverse.org>
--   *Publically Available Data*
--   *US Government*
-    <https://www.data.gov>
--   *St. Louis Federal Reserve*
-    <https://fred.stlouisfed.org>
+
+*Publically Available Data*
+- *US Government*
+<https://www.data.gov>
+- *St. Louis Federal Reserve*
+<https://fred.stlouisfed.org>
 
 Attribution: The github design and participation requirements for this course was inspired by STAT 545 @ UBC created by Jenny Bryan. <http://stat545.com>
