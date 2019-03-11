@@ -3,7 +3,7 @@ GDAT 510: The Data Science Workflow
 
 ### Course Syllabus
 
-Instructor: Chip Galusha
+Instructor: Chip Galusha &lt;&gt;
 E-Mail: <frankgalushajr@gmail.com>
 Cell: 585-615-0733
 
@@ -28,12 +28,6 @@ Final Assigment: 40%
 #### Participation
 
 Participation will never be evaluated by **correctness.** Instead, the work completed in class will be submitted to your participation repository.
-
-Communication is extemely important yet not usually prioritized in data sceince.In practice, most end users will lack technical expretise and require explainations distilled to terms representative of the domain. This class will help develop communacation skills:
-
-*Verbal:* Most classes will being with students briefly presenting their assigments due that day.
-*Written:* Assigemnts will require an explination of methologlogies and should be written in a linear fashion.
-*Visual:* Who doesn't love good data viz?
 
 ### Assigments
 
@@ -85,8 +79,8 @@ This should not be work previously completed for another course or project.
 </tr>
 <tr class="even">
 <td></td>
-<td>- Students &amp; Instructor Intros</td>
-<td>Project proposal in md</td>
+<td>- Student &amp; Instructor Intros</td>
+<td>Project proposal</td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -145,70 +139,25 @@ This should not be work previously completed for another course or project.
 </tr>
 <tr class="even">
 <td>March 25</td>
-<td>Data Acquisition &amp; ETL</td>
-<td>- Connect to an API of your choosing. Retireive data,</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>- APIs</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>- Data Sources</td>
+<td>Data Acquisition</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td>- ETL w/ R</td>
-<td></td>
-</tr>
-<tr class="even">
 <td>April 1</td>
-<td>Modeling</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>- Off the grid techniques</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>- VVUQ</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>- In class mini hack-a-thon</td>
+<td>ETL &amp; Databases in R</td>
 <td></td>
 </tr>
 <tr class="even">
 <td>April 8</td>
-<td>TDB</td>
+<td>Modeling</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>April 15</td>
-<td>Guest Speakers</td>
+<td>Business Process Integreation</td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td>- Placeholder for time. These</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>will distributed over the</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>semester</td>
-<td></td>
-</tr>
-<tr class="odd">
 <td>April 22</td>
 <td>Final Presentations</td>
 <td></td>
@@ -216,16 +165,25 @@ This should not be work previously completed for another course or project.
 </tbody>
 </table>
 
-**Useful Resources**
-- *Github*
-<https://happygitwithr.com/rmd-test-drive.html>
-- *Style Guides*
-<https://google.github.io/styleguide/Rguide.xml>
-<https://style.tidyverse.org>
-- *Publically Available Data*
-- *US Government*
-<https://www.data.gov>
-- *St. Louis Federal Reserve*
-<https://fred.stlouisfed.org>
+#### Communication
+
+Communication is extemely important yet not usually prioritized in data sceince.In practice, most end users will lack technical expretise and require explainations distilled to terms representative of the domain. This class will help develop communacation skills:
+
+*Verbal:* Most classes will being with students briefly presenting their assigments due that day.
+*Written:* Assigemnts will require an explination of methologlogies and should be written in a linear fashion.
+*Visual:* Who doesn't love good data viz?
+
+#### Useful Resources
+
+-   *Github*
+    <https://happygitwithr.com/rmd-test-drive.html>
+-   *Style Guides*
+    <https://google.github.io/styleguide/Rguide.xml>
+    <https://style.tidyverse.org>
+-   *Publically Available Data*
+-   *US Government*
+    <https://www.data.gov>
+-   *St. Louis Federal Reserve*
+    <https://fred.stlouisfed.org>
 
 Attribution: The github design and participation requirements for this course was inspired by STAT 545 @ UBC created by Jenny Bryan. <http://stat545.com>
