@@ -7,10 +7,13 @@ Instructor: Chip Galusha
 E-Mail: <frankgalushajr@gmail.com>
 Cell: 585-615-0733
 
-This course will develop the skills and strategies for efficient application of data science by improving each of the core blocks of the data science workflow: 1. Gaining a business understanding for the problem 
-2. Data Gathering 
-3. ETL 
-4. Modeling 5. Production</br>
+This course will develop the skills and strategies for efficient application of data science by improving each of the core blocks of the data science workflow:
+
+1.  Gaining a business understanding for the problem
+2.  Data Gathering
+3.  ETL
+4.  Modeling
+5.  Production
 
 #### Course Management
 
