@@ -8,22 +8,23 @@
     https://happygitwithr.com     
     
 2. Project Proposals     
-    Start thinking about what data source(s) and application you would like to use for your final project and put together a tentative draft. The format shoud      be R Markdown.     
+    Start thinking about what data source(s) and application you would like to use for your final project and put together a tentative draft. You can include several ideas. The format shoud      be R Markdown.     
     **Example:**     
     *Project:* Predict the amount of time it will take a home to sell in the Rochester Region      
     *Data Sources:* Zillow API, county real estate transaction data       
     Zillow provides access to a rich set of real estate data through their API. This data will be use to generate predictions of the time to sale for homes.        Additional features will include:     
       1. Recommendations for the best time to sell a home 
       2. general trends in the market.    
-    
 3. Data Discovery     
     With a data-set of your choice, generate a markdown that:    
     - Briefly describes the data with written text and tables      
     - Provides useful visualizations       
     - Proposes an application for the data, methods you might consider, and how you would define success for your proposal. 
-    
+4. Collect Some Problems From Work   
+     Think of some problems or challenges your company currently faces that could be solved with a data sience or quantative       
+     solution. Next class we'll discuss a some of these and brainstorm as a class how a solution could begin to take shape.
      
-I mentioned style guides today in class. Please explore the two I have included below. While rigid conformation is not required, I will evaluate your code for neatness and efficiency. Using these guides as a resources will be to your advantage.  
+I mentioned style guides yesterday in class. Please explore the two I have included below. While rigid observance is not required, I will evaluate your code for neatness and efficiency. Using these guides as a resources will be to your advantage.  
 - https://google.github.io/styleguide/Rguide.xml     
 - https://style.tidyverse.org     
     
