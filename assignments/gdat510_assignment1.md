@@ -5,7 +5,7 @@
 
 1. Install git on your machines and set the path to git in RStudio
     The following blog is a fantastic resource for all things git. 
-    https://happygitwithr.com     
+    https://happygitwithr.com      
     
 2. Project Proposals     
     Start thinking about what data source(s) and application you would like to use for your final project and put together a tentative draft. The format shoud      be R Markdown.     
