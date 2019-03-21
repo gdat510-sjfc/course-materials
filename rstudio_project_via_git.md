@@ -14,7 +14,7 @@ The next screen will allow you to name your repo. Please use the following namin
 
 Click the big green button "Create repository."
 
-![](~/Documents/gdat_510/gdat_510/assignments/github_screen_shots/create_new_repo_page_snip.png)
+![](assignments/github_screen_shots/create_new_repo_page_snip.png)
 
 New Project with Git
 ====================
