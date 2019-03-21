@@ -8,7 +8,7 @@ Make a repo on Github
 
 The first step is to create a new repo on the github student page. To do so, click the green "New" button (see image below).
 
-![](~/Documents/gdat_510/gdat_510/assignments/github_screen_shots/new_repo_button_snip.png?raw=true "Title")
+![](assignments/github_screen_shots/new_repo_button_snip.png?raw=true "Title")
 
 The next screen will allow you to name your repo. Please use the following naming convention: <First Name><Last Name Initial>\_Assigment1. For example, ChipG\_Assignment1. Make the repo private and check the box to Initialize a README.
 
