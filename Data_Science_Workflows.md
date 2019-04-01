@@ -96,14 +96,14 @@ Microsoft Team DS provdes some useful inslight into defining success metrics sta
 **T**ime-bound
 
 At the conclusion of scoping the problem, the data science team should be able to answer the following questions:
-**"What is the system-level problem to be solved and why is it important?"**
-**"What is the benefit to the business?"**
-**"How will success be measured?"**
-**"What are the shortfalls of the current and previous approaches?"**
-**"What is the nature of the solution to be provided?"**
-**"What specific technologies are needed"**
-**"What will be developed?"**
-**"What are the difficulties to be encountered?"**
+**"What is the system-level problem to be solved and why is it important?"**   
+**"What is the benefit to the business?"** 
+**"How will success be measured?"** 
+**"What are the shortfalls of the current and previous approaches?"** 
+**"What is the nature of the solution to be provided?"**   
+**"What specific technologies are needed"**   
+**"What will be developed?"**   
+**"What are the difficulties to be encountered?"**    
 
 ------------------------------------------------------------------------
 
