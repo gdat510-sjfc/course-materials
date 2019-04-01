@@ -1,0 +1,11 @@
+---
+title: "Homework Evaluation"
+author: "Chip Galusha"
+date: "3/21/2019"
+output: 
+  md_document:
+    variant: markdown_github
+---
+
+Each assignment will be graded on three components, each on a three point scale.
+

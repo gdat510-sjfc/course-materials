@@ -1,0 +1,25 @@
+---
+title: "Gdat_510_assignment2"
+author: "Chip Galusha"
+date: "3/20/2019"
+output: 
+  md_document:
+    variant: markdown_github
+---
+
+#The Data Science Workflow 
+## Assignment Two
+
+**Due March 25th, 2019**
+
+1. Push the data discovery exercise (#3) from assigment one to your github assignment one repositories. 
+
+
+
+
+    
+    
+    
+    
+    
+
