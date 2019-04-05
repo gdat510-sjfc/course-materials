@@ -1,4 +1,4 @@
-Data Science Workflows - DRAFT
+Data Science Workflows
 ================
 Chip Galusha
 3/24/2019
@@ -11,9 +11,21 @@ Chip Galusha
     -   [Identify Data Sources:](#identify-data-sources)
     -   [Success Metrics](#success-metrics)
 -   [Data Acquisition & Understanding](#data-acquisition-understanding)
+    -   [Goals](#goals)
+    -   [How to do it](#how-to-do-it)
+    -   [Ingest the data](#ingest-the-data)
+    -   [Explore the data](#explore-the-data)
+    -   [Set up a data pipeline](#set-up-a-data-pipeline)
+    -   [Useful R Packages](#useful-r-packages)
 -   [Modeling](#modeling)
+    -   [Understanding how will the model be used in Production?](#understanding-how-will-the-model-be-used-in-production)
+    -   [Model Building](#model-building)
+    -   [Feature Engineering](#feature-engineering)
+    -   [Comparing Model Performance](#comparing-model-performance)
 -   [Deployment](#deployment)
+-   [Process Monitoring](#process-monitoring)
 -   [Appendix](#appendix)
+-   [Useful Resources](#useful-resources)
 -   [References](#references)
 
 Introduction
@@ -110,13 +122,68 @@ At the conclusion of scoping the problem, the data science team should be able t
 Data Acquisition & Understanding
 --------------------------------
 
-Once we've scoped the problem successfually, we need to being the data collection and understanding phase. Much of the "data wrangeling" and "data exploration" are completed during this phase.
+Once we've scoped the problem successfually, we need to begin the data collection and understanding phase. Much of the "data wrangeling" and "data exploration" are completed during this phase. It's widly considered the most tedious and time consuming element when developing data science solutions. Most of this section is from the Microsoft Team Data Science Workflow documentation(See references).
+
+#### Goals
+
+Produce a clean, high-quality data set whose relationship to the target variables is understood. Locate the data set in the appropriate analytics environment so you are ready to model.Develop a solution architecture of the data pipeline that refreshes and scores the data regularly.
+
+#### How to do it
+
+There are three main tasks addressed in this stage: - Ingest the data into the target analytic environment.
+- Explore the data to determine if the data quality is adequate to answer the question.
+- Set up a data pipeline to score new or regularly refreshed data.
+
+#### Ingest the data
+
+Set up the process to move the data from the source locations to the target locations where you run analytics operations, like training and predictions.
+
+#### Explore the data
+
+Before you train your models, you need to develop a sound understanding of the data. Real-world data sets are often noisy, are missing values, or have a host of other discrepancies. You can use data summarization and visualization to audit the quality of your data and provide the information you need to process the data before it's ready for modeling. R Shiny is a fantastic tool for devloping EDA applications that can facilitate quick analysis.
+
+#### Set up a data pipeline
+
+In addition to the initial ingestion and cleaning of the data, you typically need to set up a process to score new data or refresh the data regularly as part of an ongoing learning process. You do this by setting up a data pipeline or workflow. Depending on your business needs and the constraints of your existing systems into which this solution is being integrated, the pipeline can be one of the following:Batch-based Streaming or real time, or A hybrid.
+
+#### Useful R Packages
+
+[dplyr](https://dplyr.tidyverse.org) &gt; data manipulation
+[tidyr](https://tidyr.tidyverse.org) &gt; Make your data tidy
+[purrr](https://tidyr.tidyverse.org) &gt; Enhance R's functional programming
+[lubridate](https://lubridate.tidyverse.org) &gt; Take the tears out of working with dates
+[stringr](https://stringr.tidyverse.org) &gt; String manipulations
+[readr](https://readr.tidyverse.org) &gt; Reading data
+[forcats](https://forcats.tidyverse.org) &gt; Solve common problems with factors
 
 Modeling
 --------
 
+Most data scientists would agree that the most enjoyable element of developing data science workflows is the modeling process. The goal for this phase is build a predictive model or ensamble of models that are sutible for prodction and meet the requirments established when scoping the problem.
+
+#### Understanding how will the model be used in Production?
+
+#### Model Building
+
+If you're taking a machine learning approach to buidling models, it's a good idea to split your data set into a "traning" set - used to fit the model - and "test" set - used to evalute the the performance.
+
+But what do you if you're trying multiple models.
+
+#### Feature Engineering
+
+#### Comparing Model Performance
+
+If your trying
+
 Deployment
 ----------
+
+Comming Soon.
+
+Process Monitoring
+------------------
+
+Comming Soon.
 
 Appendix
 --------
@@ -126,6 +193,11 @@ Popular data science workflows:
 ![MS Team Data Science](./ds_workflows/workflow_images/ms_team_ds_workflow.png)
 **CRISP-DM - Cross-industry Standard Process for Data Mining**
 ![CRISP-DM](./ds_workflows/workflow_images/CRISP-DM_Process_Diagram.png)
+
+Useful Resources
+----------------
+
+[R for Data Science](https://r4ds.had.co.nz)
 
 References
 ----------
