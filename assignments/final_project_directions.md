@@ -26,7 +26,7 @@ Develop a project proposal in the suggested format. This can be saved as the REA
 #### Step 2: Folder Structure
 
 In the folder where your final R project is saved, create the following folders and sub-folders:
-![](Images/folder_structure.png)
+![](/Users/frankrgalushajr/Documents/gdat_510/gdat_510/Images/folder_structure.png)
 
 #### Step 3: Data Aquisition & Preperation
 
