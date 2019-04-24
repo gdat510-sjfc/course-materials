@@ -44,21 +44,21 @@ The historial data will be used for EDA & model building but consider the data p
 
 Once you've loaded and processed the data, it's time do some exploratory data analysis and develop a modeling strategy. This will require several documents.
 
--   model\_EDA.Rmd: this should be a journal like document that describes your exploratory data analysis and provides visualizations and summaries of any useful insights. Also, if you have ideas for creating new variables - also know as feature engineering - they should be documented here. Save this file *docs/model*
--   model\_dev.Rmd: this is where you will build and validate the model. It should save the model object as an RDS object in the *data/models* folder. The markdown file should be saved in *code/model*
--   model\_research.Rmd: any research and development related to the model development can be done here and saved in the docs&gt;model folder. This should be saved in *docs/model*
+-   *model\_dev.Rmd*: this is where you will build and validate the model. It should save the model object as an RDS object in the *data/models* folder. The markdown file should be saved in *code/model*
+-   *model\_research.Rmd*: any research and development related to the model development can be done here and saved in the docs&gt;model folder. This should be saved in *docs/model*
 
 #### Step 5: Operationalization
 
 Once you've developed the ETL process and have build a model, it's time to think about the production version of the process. In the wild, this is developing and implementing a plan to integrate the solution into the business process.
 
-*data\_prep\_production.R* &gt; This file will prep and load new data to be scored. It will save the newly processed data in the *data/modeling* folder.
+-   *data\_prep\_production.R*: This file will prep and load new data to be scored. It will save the newly processed data in the *data/modeling* folder.
 
-*scoring\_production.Rmd* &gt; This markdown will execute the data\_prep\_production.R from above using the *source* function, load the saved model from *data/models*, and use the *predict* function to score the new data. This scored data can be saved in the *data/scoring* folder (not shown).
+-   *scoring\_production.Rmd*: This markdown will execute the data\_prep\_production.R from above using the *source* function, load the saved model from *data/models*, and use the *predict* function to score the new data. Not required(This scored data can be saved in the *data/scoring* folder (not shown).)
 
 #### Step 6: Iterate
 
-Now that you have working data science solution, you probably have some ideas to improving the process. If necessary, go back to step 3: - Add more data to model
+Now that you have working data science solution, you probably have some ideas to improving the process. If necessary, go back to step 3:
+- Add more data to model
 - Improve the speed of the process by remove unnecessary variables - Make code more efficient.
 
 After this, move to step 4:
