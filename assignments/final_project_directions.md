@@ -44,8 +44,9 @@ The historial data will be used for EDA & model building but consider the data p
 
 Once you've loaded and processed the data, it's time do some exploratory data analysis and develop a modeling strategy. This will require several documents.
 
+-   *eda.Rmd*: this should be a journal like document that describes your exploratory data analysis and provides visualizations and summaries of any useful insights. Also, if you have ideas for creating new variables - also know as feature engineering - they should be documented here. Save this file *docs/dataReports*.    
 -   *model\_dev.Rmd*: this is where you will build and validate the model. It should save the model object as an RDS object in the *data/models* folder. The markdown file should be saved in *code/model*
--   *model\_research.Rmd*: any research and development related to the model development can be done here and saved in the docs&gt;model folder. This should be saved in *docs/model*
+-   *model\_research.Rmd*: any research and development related to the model development can be done here and saved in the docs&gt;model folder. This should be saved in *docs/model*. NOT REQUIRED.
 
 #### Step 5: Operationalization
 
